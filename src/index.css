@@ -18,3 +18,11 @@ body {
   align-items: center;
   height: 80vh;
 }
+.documents-container{
+  display: flex;
+}
+.document_card{
+  flex: 0 1 auto;
+  margin: 10px;
+  width: 20%;
+}
